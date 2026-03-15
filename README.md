@@ -26,7 +26,7 @@ While the specific tech stack is not explicitly provided in the image, a typical
 | ----- | ----- |
 | Frontend | React / Next.js / Vite.js |
 | Styling | Tailwind CSS / Styled Components |
-| Hosting |  Netlify |
+| Hosting |  Vercel |
 
 ## Getting Started
 
